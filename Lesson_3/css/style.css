@@ -1,0 +1,35 @@
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	font-weight: 550;
+}
+
+td,
+th {
+	border: 1px solid #000;
+	padding: 5px 10px;
+}
+
+caption {
+	border: 1px solid #000;
+	padding: 5px 10;
+	margin-top: 20px;
+	border-bottom: none;
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+.Head_Holy {
+	color: #f00;
+	font-weight: bold;
+}
+
+.Name_Day {
+	font-weight: bold;
+}
+
+.Holyday {
+	color: #f00;
+}
